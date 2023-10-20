@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 this is a file which is made in main
+=======
